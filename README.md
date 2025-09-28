@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Huy  
+# Hi there 👋, I'm Kamon
 
 🎓 I'm a **first-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.  
 💡 I’m passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
@@ -16,8 +16,8 @@
 
 ## 📫 How to reach me  
 - 📧 Email: **huy.nguyencseai@hcmut.edu.vn**  
-- 💼 LinkedIn: *(add link when ready)*  
-- 🌐 Portfolio: *(coming soon...)*  
+- 💼 LinkedIn:  
+- 🌐 Portfolio: 
 
 ---
 
