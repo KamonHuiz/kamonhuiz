@@ -10,7 +10,7 @@
 - 🔭 Currently exploring **AI & Computer Science fundamentals**.  
 - 👯 I’ve been part of a science & engineering club: [WATT'S UP DEBUGGERS](https://www.facebook.com/WattupDebuggers/).  
 - 📚 Always curious about new technologies and research directions.  
-- 🌱 I’m eager to build projects that combine **creativity + AI**.  
+- 🌱 I’m eager to build projects that combine **AI + Creativity**.  
 
 ---
 
@@ -21,11 +21,9 @@
 
 ---
 
-## ⚡ Tech Interests  
-- Artificial Intelligence & Machine Learning  
+## ⚡ Tech Interests   
 - Natural Language Processing  
-- Computer Vision  
-- Web & Software Development  
+- Computer Vision   
 
 ---
 
