@@ -1,37 +1,28 @@
-# Hi there 👋, I'm Kamon
+# Hi there, I'm Kamon
 
-🎓 I'm a **first-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.  
-💡 I’m passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
-🤝 I love collaborating, sharing knowledge, and learning from others in the community.  
-
----
-
-## ✨ About Me  
-- 🔭 Currently exploring **AI & Computer Science fundamentals**.  
-- 👯 I’ve been part of a science & engineering club: [WATT'S UP DEBUGGERS](https://www.facebook.com/WattupDebuggers/).  
-- 📚 Always curious about new technologies and research directions.  
-- 🌱 I’m eager to build projects that combine **AI + Creativity**.  
+I'm a **first-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.  
+I’m passionate about **Knowledge Graph and Simulation**.  
+I love collaborating, sharing knowledge, and learning from others in the community.  
 
 ---
 
-## 📫 How to reach me  
-- 📧 Email: **huy.nguyencseai@hcmut.edu.vn**  
-- 💼 LinkedIn:  
-- 🌐 Portfolio: 
+## About Me  
+- Currently exploring **AI fundamentals**.  
+- I am doing research about Knowledge Graph and Traffic Simulation.
+- I am still learning and exploring to find my research interests.  
 
 ---
 
-## ⚡ Tech Interests   
-- Natural Language Processing  
-- Computer Vision   
-
+## How to reach me  
+- 📧 Email: **huy.nguyencseai@hcmut.edu.vn**
 ---
 
-## 🚀 Goals  
-- Gain solid foundations in **AI research & applications**.  
-- Contribute to **open-source projects**.  
-- Collaborate with peers to solve real-world problems.  
-
+## 2026 Goals  
+- >= 3.9 GPA for my first year in my school
+- Finish all AI course in Kaggle.
+- Good at Pytorch framework
+- Intermediate in C#, Java and Unity
+- Get better at public speaking in Vietnames and English
 ---
 
-⭐️ *"Always learning, always building."*  
+⭐️ *"If you are not a good shot today. Don't worrry. There are other ways to be useful."*  
