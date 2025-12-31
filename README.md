@@ -21,7 +21,7 @@ I love collaborating, sharing knowledge, and learning from others in the communi
 ---
 
 ## 2026 Goals  
-- >= 3.9 GPA for my first year in my school
+- 3.9 GPA for my first year in my school
 - Finish all AI course in Kaggle.
 - Good at Pytorch framework
 - Intermediate in C#, Java and Unity
