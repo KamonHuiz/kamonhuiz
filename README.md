@@ -2,14 +2,14 @@
 
 **`Just the chill guy (Fulltime University Student)`**
 
-### About me
+## About me
 I'm a **first-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.  
 I am doing research about Knowledge Graph and Traffic Simulation.
 I am still learning and exploring to find my research interests.  
 I love collaborating, sharing knowledge, and learning from others in the community.  
 
 ---
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -24,11 +24,8 @@ I love collaborating, sharing knowledge, and learning from others in the communi
 
 ---
 
-### About Me  
 
-
-
-### How to reach me  
+## How to reach me  
 - 📧 Email: **huy.nguyencseai@hcmut.edu.vn**
 ---
 
