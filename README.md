@@ -1,6 +1,5 @@
 #  🪲 Kamon (Nguyễn Gia Huy)
 
-**`Just the chill guy (Fulltime University Student)`**
 
 ## About me
 I'm a **first-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.  
