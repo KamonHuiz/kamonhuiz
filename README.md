@@ -1,4 +1,4 @@
-#  🪲 Kamon (Nguyễn Gia Huy)
+# Kamon (Nguyễn Gia Huy)
 
 
 ## About me
